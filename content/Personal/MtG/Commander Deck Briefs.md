@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2025-04-19T12:30:23.207+01:00
-modified: 2026-06-14T12:51:06.556+01:00
+modified: 2026-06-14T13:48:11.947+01:00
 ---
 
 ## Template
@@ -14,8 +14,14 @@ modified: 2026-06-14T12:51:06.556+01:00
   - **Raw Power**
 - **Iconic Cards**
 
-<div style="page-break-after: always;"></div>
+---
+
 ## Young Pyromancer's Token Flurry Slurry
+
+- Link: https://moxfield.com/decks/AmJQUyqwcUWJhSa6mIQhLg
+
+- Commander: \[Kykar, Wind's Fury]
+
 - **How Does It Win?** In the early turns, play cards like Young Pyromancer, that put small tokens on board, or otherwise reward you for playing instants and sorceries. When you have a couple of those, use big spells like Counterspells to create a huge army of monks, draw a lot of cards, and chip away at your opponents. When you're ready to strike, play your commander (Narset), then make all your tokens big with a flurry of small cantrips like Brainstorm and Crash Through, and swing with overwhelming force.
 
 - **The Weak Points:**
@@ -32,8 +38,6 @@ modified: 2026-06-14T12:51:06.556+01:00
   - Brainstorm
   - Crash Through
 
-<div style="page-break-after: always;"></div>
-
 ## Atarka's Big Dragonstorm
 
 - **How Does It Win?**
@@ -49,8 +53,6 @@ modified: 2026-06-14T12:51:06.556+01:00
   - Atarka, the commander, pretty much sums up the strategy.
   - Dragonlord's Servant
   - Crucible of Fire
-
-<div style="page-break-after: always;"></div>
 
 ## Minn's Blue Shenanigans
 
@@ -74,7 +76,6 @@ modified: 2026-06-14T12:51:06.556+01:00
   - Psychosis Crawler
 
 <div style="page-break-after: always;"></div>
-
 ## Ezuri's Wild Evolution
 
 - **How Does It Win?**
@@ -95,28 +96,25 @@ modified: 2026-06-14T12:51:06.556+01:00
   - Herald of the Streams
 
 <div style="page-break-after: always;"></div>
-
 ## Inquisitorial Battlecruise
-
 - **How Does It Win?**
-  - This is a classic control-ish deck. You win by being slower than the rest, playing cards that are more expensive, but more impactful than the other decks. It wants to play cards that do 20% more than the rest of the decks, and so slowly build up card advantage and control over the board.
-  - Eventually, it wins by creating an army of tokens and giving them static buffs like Ultramarines Honour Guard and "They shall know no fear"
+	- This is a classic control-ish deck. You win by being slower than the rest, playing cards that are more expensive, but more impactful than the other decks. It wants to play cards that do 20% more than the rest of the decks, and so slowly build up card advantage and control over the board.
+	- Eventually, it wins by creating an army of tokens and giving them static buffs like Ultramarines Honour Guard and "They shall know no fear"
 - **The Weak Points:**
-  - It can be slow to set up, because cards are generally expensive, and mana costs are quite awkward. Just remember that it's okay to feel a little behind in the first 3-4 turns, and it's okay to spend them playing mana-generating artifacts and other set-up.
-  - Because responses to threats are so expensive, you often won't be able to respond to multiple things. Deny the witch, for instance, can respond to pretty much anything, but it's 4 mana that is difficult to cast, so you have to choose carefully what to deal with. If you can get someone else at the table to deal with something, do so.
+	- It can be slow to set up, because cards are generally expensive, and mana costs are quite awkward. Just remember that it's okay to feel a little behind in the first 3-4 turns, and it's okay to spend them playing mana-generating artifacts and other set-up.
+	- Because responses to threats are so expensive, you often won't be able to respond to multiple things. Deny the witch, for instance, can respond to pretty much anything, but it's 4 mana that is difficult to cast, so you have to choose carefully what to deal with. If you can get someone else at the table to deal with something, do so.
 - **Stats**
-  - **Recommended Experience**: Less than what it looks like. The main difficulty is playing like a control player, which is transferrable across games. If you have played a control deck in other card games like Hearthstone or Lorcana, many of the concepts apply.
-    - You should be comfortable with instants though.
-  - **Skill Expression**: Quite high. Because most cards are kind of expensive, every card you play matters, and you often won't get to take that many actions in a turn. Evaluating the game state and how to stay alive, while grinding a resource advantage, is vital.
-  - **Raw Power**: Probably the highest.
+	- **Recommended Experience**: Less than what it looks like. The main difficulty is playing like a control player, which is transferrable across games. If you have played a control deck in other card games like Hearthstone or Lorcana, many of the concepts apply.
+		- You should be comfortable with instants though.
+	- **Skill Expression**: Quite high. Because most cards are kind of expensive, every card you play matters, and you often won't get to take that many actions in a turn. Evaluating the game state and how to stay alive, while grinding a resource advantage, is vital.
+	- **Raw Power**: Medium
 - **Iconic Cards**
-  - Marneus Calgar
-  - Deny The Witch
-  - Severina Raine
-  - And they shall know no fear
+	- Marneus Calgar
+	- Deny The Witch
+	- Severina Raine
+	- And they shall know no fear
 
 <div style="page-break-after: always;"></div>
-
 ## John Benton's Crushing Group Hug
 
 - **How Does It Win?**
@@ -128,7 +126,7 @@ modified: 2026-06-14T12:51:06.556+01:00
 - **The Weak Points:**
   - Your commander is your only real creature and way to win, so you'll need to keep him alive. It's usually good to keep at least one piece of protection up to protect when it's not turn.
 - **Stats**
-  - **Recommended Experience**: Beginner-friendly.
+  - **Recommended Experience**: Medium.
   - **Skill Expression**: Very few decisions to make, but every decision matters. Who to attack and what cards to play when are the biggest determinants of success.
   - **Raw Power**: Probably the most powerful
 - **Iconic Cards**
@@ -136,3 +134,42 @@ modified: 2026-06-14T12:51:06.556+01:00
   - Giant Growth
   - Feat of Resistance
   - Hyena Umbra
+
+## Isshin's Double Attack Triggers
+
+- Link: https://moxfield.com/decks/3v2gWuooEUq5zYazcLeBeg
+- **How Does It Win?**
+  - Try to get a 2-cost or a 3-cost creature with strong attack triggers (e.g. "When this creature attacks...") down as soon as possible.
+  - Then, play Isshin, and start beating people over the head.
+  - Then, play powerful enchantments and creatures that buff your whole team, and KEEP ATTACKING!!
+  - Also note that Mobilize is a very strong mechanic here. It'll trigger twice!
+- **The Weak Points:**
+  - A board wipe will kill you. There are two or three spells that give all your creatures indestructible, save them!
+  - On the same vein, remember that you don't have to play _all_ your creatures at once. It's fine to save some to rebuild later.
+- **Stats**
+  - **Recommended Experience**: Beginner-friendly.
+  - **Skill Expression**: Medium
+  - **Raw Power**: High
+- **Iconic Cards**:
+  - Isshin
+  - [Anim Pakal, Thousandth Moon](https://moxfield.com/cards/J9wAg-anim-pakal-thousandth-moon)
+  - [Skullclamp](https://moxfield.com/cards/a2abK-skullclamp): You can sacrifice Mobilize tokens before the end step to draw a bunch of cards!
+  - [All-Out Assault](https://moxfield.com/cards/OxnXn-all-out-assault): For an All-out Assault
+
+## Loot Landfall
+
+- Link: https://moxfield.com/decks/YLfUPFVb8kCE6ZAXlqfsrg
+- Commander \[Loot, Exhuberant Explorer]
+- **How Does It Win?**
+  - You play stuff that has Landfall, and then use the spells that go get lands to trigger Landfall a bunch of times in a turn.
+  - You can also use cards that let you play lands from a graveyard to use \[Terramorphic Expanse] again and again for as many Landfall triggers as possible.
+  - Then, you hit them in the face with your big creatures.
+- **The Weak Points:**
+  - It has very little removal and card draw. Your card draw is mostly activating Loot again and again.
+- **Stats**
+  - **Recommended Experience**: Very Beginner-friendly
+  - **Skill Expression**: Low
+  - **Raw Power**: Medium
+- **Iconic Cards**
+  - \[Scute Swarm]
+  - \[Tifa Lockhart]
