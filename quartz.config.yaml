@@ -2,7 +2,7 @@
 configuration:
   pageTitle: Borja Lorente's Garden
   pageTitleSuffix: ""
-  enableSPA: false
+  enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
