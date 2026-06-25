@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-06-23
-modified: 2026-06-23T08:10:59.922+01:00
+modified: 2026-06-23T12:17:22.206+01:00
 ---
 
 # Canadian Cross Build
@@ -23,6 +23,7 @@ In gcc, you accomplish this by setting bot the `--host` ,  `--target`, and `--bu
 | ------------------------------------------------- | ----------- | ------- | ----- |
 | 1. Bootstrap an x86 gcc binary targetting aarch64 | x86         | aarch64 | x86   |
 | 2. Use that binary to compile gcc                 | **aarch64** | aarch64 | x86   |
+
 You will not believe the etymology:
 
 > The term **Canadian Cross** came about because at the time that these issues were under discussion, Canada had three national political parties.[[1]]\(https://en.wikipedia.org/wiki/Cross\_compiler#cite\_note-1).
