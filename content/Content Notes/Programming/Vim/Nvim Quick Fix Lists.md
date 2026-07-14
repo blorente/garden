@@ -2,6 +2,12 @@
 publish: true
 created: 2026-06-25
 modified: 2026-06-25T12:39:25.117+01:00
+published: 2026-06-25T12:39:25.117+01:00
+links:
+  - "[[Vim]]"
+  - "[[Nvim]]"
+  - "[[DevTools]]"
+sources: https://neovim.io/doc/user/quickfix/
 ---
 
 Src: https://neovim.io/doc/user/quickfix/
