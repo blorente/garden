@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-07-14
-modified: 2026-07-14T12:54:57.171+01:00
+modified: 2026-07-14T13:52:07.953+01:00
 ---
 
 # Working in Public
 
-### Chapter 3
+### Chapter 2
 
 - How a project grows. In general, the bigger the project, the bigger everything is, but not everything grows at the same rate. For instance, issues tend to grow more than commits, etc etc.
   - Not sure if this is in absolute numbers, I don't really trust the article cited, and I don't want to bother to check. I don't think it's useful to the point.
