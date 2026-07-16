@@ -2,14 +2,6 @@
 publish: true
 created: 2026-06-25
 modified: 2026-06-25T11:50:03.199+01:00
-published: 2026-06-25T11:50:03.199+01:00
-links:
-  - "[[C++ Toolchains]]"
-  - "[[C++]]"
-  - "[[Linux]]"
-  - "[[Compilers]]"
-  - "[[Cmake]]"
-sources: https://cmake.org/cmake/help/book/mastering-cmake/chapter/Cross%20Compiling%20With%20CMake.html
 ---
 
 Of course, CMake doesn't know about cross-compiling out of the box. It needs to be told about it (e.g. where to find the gcc distribution).

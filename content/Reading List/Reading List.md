@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-06-14T13:30:41.028+01:00
-modified: 2026-07-12T10:48:39.165+01:00
+created: 2026-06-14T13:30:35.446+01:00
+modified: 2026-07-16T09:21:32.238+01:00
 ---
 
 ## To Read
@@ -16,6 +16,6 @@ modified: 2026-07-12T10:48:39.165+01:00
 
 _from when I started counting, around July 2026_
 
-- [[The Neverending Story]]
+- [[The Neverending Story - Michael Ende]]
 - The Phoenix Project
 -
