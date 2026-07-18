@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-06-14T13:30:35.446+01:00
-modified: 2026-07-17T08:00:22.130+01:00
+modified: 2026-07-18T19:45:16.982+01:00
 ---
 
 ## To Read
@@ -16,6 +16,7 @@ modified: 2026-07-17T08:00:22.130+01:00
 - https://crisisengineering.layeraleph.com/reading-list/
 - https://www.amazon.co.uk/Leprechauns-Software-Engineering-Laurent-Bossavit/dp/2954745509
   - About disproving empirical engineering. And how we create amythis by misinterpretation. A counterpoint to this talk: https://www.youtube.com/watch?v=WELBnE33dpY\&list=WL\&index=7\&t=1s
+- [https://xeiaso.net/talks/2024/nix-docker-build/](https://xeiaso.net/talks/2024/nix-docker-build/ "https://xeiaso.net/talks/2024/nix-docker-build/")
 
 ## Read in 2026
 
