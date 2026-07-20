@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-06-14T13:30:35.446+01:00
-modified: 2026-07-18T19:45:16.982+01:00
+created: 2026-06-14T13:30:41.028+01:00
+modified: 2026-07-20T14:23:58.602+01:00
 ---
 
 ## To Read
@@ -16,7 +16,11 @@ modified: 2026-07-18T19:45:16.982+01:00
 - https://crisisengineering.layeraleph.com/reading-list/
 - https://www.amazon.co.uk/Leprechauns-Software-Engineering-Laurent-Bossavit/dp/2954745509
   - About disproving empirical engineering. And how we create amythis by misinterpretation. A counterpoint to this talk: https://www.youtube.com/watch?v=WELBnE33dpY\&list=WL\&index=7\&t=1s
-- [https://xeiaso.net/talks/2024/nix-docker-build/](https://xeiaso.net/talks/2024/nix-docker-build/ "https://xeiaso.net/talks/2024/nix-docker-build/")
+- Nix talks:
+  - [https://xeiaso.net/talks/2024/nix-docker-build/](https://xeiaso.net/talks/2024/nix-docker-build/ "https://xeiaso.net/talks/2024/nix-docker-build/")
+  - https://www.youtube.com/watch?v=6Le0IbPRzOE
+- Make Boring Plans: https://www.camilletalk.com/whilefalse/2021/1/31/make-boring-plans?ref=crisisengineering.layeraleph.com
+- The SRE book
 
 ## Read in 2026
 

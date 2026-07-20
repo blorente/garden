@@ -2,6 +2,10 @@
 publish: true
 created: 2026-06-23
 modified: 2026-06-23T12:44:42.114+01:00
+published: 2026-06-23T12:44:42.114+01:00
+links:
+  - "[[python]]"
+sources: https://docs.python.org/3/whatsnew/3.8.html#assignment-expressions
 ---
 
 # Walrus operator (colon-equals)

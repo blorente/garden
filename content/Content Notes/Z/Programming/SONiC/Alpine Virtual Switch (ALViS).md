@@ -2,6 +2,15 @@
 publish: true
 created: 2026-06-26
 modified: 2026-06-26T16:11:43.841+01:00
+published: 2026-06-26T16:11:43.841+01:00
+links:
+  - "[[SONiC]]"
+  - "[[Bazel]]"
+  - "[[Networking]]"
+  - "[[Network Switches]]"
+sources:
+  - "[Alpine HLD](https://github.com/sonic-net/SONiC/blob/master/doc/alpine/alpine_hld.md)"
+  - https://www.youtube.com/watch?v=55X1_2utiVg
 ---
 
 So, what is the Alpine switch emulator?

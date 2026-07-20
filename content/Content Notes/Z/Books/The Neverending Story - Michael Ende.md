@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-12
-modified: 2026-07-12T07:54:51.527+01:00
+modified: 2026-07-18T20:24:01.030+01:00
 ---
 
 # The Neverending Story
@@ -19,6 +19,10 @@ It has a lot of really really imaginative locations and stories, even if told ve
 Favourite quote, by far, happens in the Change House:
 
 > You see, it’s called the House of Change not only because it changes itself but also because it changes anyone who lives in it. And that was very important to the little boy, because up until then he had always wanted to be someone other than he was, but he didn’t want to change.
+
+In the original:
+
+> > Denn das Änderhaus heißt nicht nur so, weil es sich selbst verändert, sondern weil es auch den ändert, der in ihm wohnt. Und das war sehr wichtig für den kleinen Buben, denn bisher wollte er zwar immer ein anderer sein, als er war, aber er wollte sich nicht ändern.
 
 How many times have we wished our circumstances were different, yet have done nothing to change ourselves or the circumstances?
 
