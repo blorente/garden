@@ -245,7 +245,6 @@ plugins:
     enabled: true
     options:
       includeAll: true
-      includedProperties: '["description","tags","aliases","links"]'
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
