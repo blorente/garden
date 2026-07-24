@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-24
-modified: 2026-07-24T10:08:13.456+01:00
+modified: 2026-07-24T22:45:07.956+01:00
 ---
 
 # Becoming a Technical Leader - Gerald Weinberg
@@ -26,15 +26,7 @@ Main ideas:
 
 > Observe someone you consider a leader. How is this person’s life different from yours? Which of these differences are a result of being a leader? Which of them are a cause of being a leader?
 
-There is this guy that I'll call Mark, who was a prominent figure in an OSS community (this is not a good way to file the serial numbers because of my stated history, but it's the best I can do). Mark was a driving force behind some of the most visible changes in that community for around 5 years, including getting the Linux Foundation involved.
-
-On a shallow read, Mark spent a lot of his time talking to people and just reading their code and generally checking out what they were up to. I have a feeling this was only possible because he aligned his job to benefit directly from being the leader in the community, by founding a startup that sustained itself on consulting (while trying to build a product. Ring any bells?). I also believe that he _was_ driven enough to put in a lot of effort on his own, before starting the company. **I think he thought about this community for the majority of his day during the majority of days.**
-
-On a deeper read, I don't think you can have that kind of dedication, to put up with all the BS of an OSS community, without _really believing_ that the world needed the thing that he was working towards. OSS, especially OSS used by enterprises, is a thankless job if you're not yourself in an enterprise paying you to do it. This person spent _a lot_ of personal and emotional capital making this happen, which I don't seem to be able to muster. Or, rather, I can't quite make the decision to invest myself fully in it.
-
-As a cause of being a leader, he has gotten incredible opportunities, where clients will want to work with _him specifically_, and otherwise is seen as "the person to ask about". I feel myself wanting that, but I'm not sure I can invoke that same fire and focus without sacrificing something that I care about (Bardic Tools, or my relationships mostly).
-
-Conclusion: His near-obsession with pushing the community forward _and_ his ability to talk to people were the main factors turning him into a leader. As a consequence, he got a lot of work for his company, and (probably more important to him) he got to "Be the person to ask". He also got a life that I don't think I want.
+\[REDACTED]
 
 > How would you expect your life to be better if you increased your leadership skills? Which of these improvements will arise from your changed behavior, and which from recognition of the changed behavior of other people?
 
