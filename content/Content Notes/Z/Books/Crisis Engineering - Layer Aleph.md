@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-20
-modified: 2026-07-20T14:45:55.239+01:00
+modified: 2026-07-23T09:34:34.097+01:00
 ---
 
 # Crisis Engineering - Layer Aleph
@@ -89,3 +89,7 @@ Main idea:
 - Systems, especially people systems, tend to self-encapsulate: To limit how much they can be acted upon.
   - This is a good mental model, for instance, to explain how most managers massage the information they send upwards -- they want to minimize how much the systems above them act on them, and the only lever they have is the sensors of the control loop above.
   - Ergo, do not trust your manageres.
+
+2.4: Get your people
+
+- People have levers and fears. You have to figure out what the fears
