@@ -1,7 +1,8 @@
 ---
 publish: true
-created: 2026-07-16T10:33:18.150+01:00
+created: 2026-07-16T10:33:46.935+01:00
 modified: 2026-07-16T10:33:18.150+01:00
+published: 2026-07-16T10:33:18.150+01:00
 ---
 
 Links: [[Article]], [[Career]],[[Core Competencies]]

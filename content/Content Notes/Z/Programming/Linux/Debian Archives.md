@@ -2,6 +2,7 @@
 publish: true
 created: 2026-06-17T15:20:42.232+01:00
 modified: 2026-07-24T15:59:18.680+01:00
+published: 2026-07-24T15:59:18.680+01:00
 ---
 
 Links: [[Debian]], [[Linux]]

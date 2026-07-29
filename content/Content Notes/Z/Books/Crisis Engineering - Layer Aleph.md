@@ -2,6 +2,12 @@
 publish: true
 created: 2026-07-20
 modified: 2026-07-23T09:34:34.097+01:00
+published: 2026-07-23T09:34:34.097+01:00
+links:
+  - "[[Software Engineering]]"
+  - "[[Book Notes]]"
+  - "[[Crisis Engineering]]"
+sources:
 ---
 
 # Crisis Engineering - Layer Aleph

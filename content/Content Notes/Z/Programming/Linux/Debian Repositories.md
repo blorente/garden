@@ -2,6 +2,14 @@
 publish: true
 created: 2026-07-24
 modified: 2026-07-24T16:09:33.703+01:00
+published: 2026-07-24T16:09:33.703+01:00
+links:
+  - "[[Linux]]"
+  - "[[Debian]]"
+sources:
+  - https://www.debian.org/doc/debian-policy/ch-relationships.html#virtual-packages-provides
+  - "[Alpine HLD](https://github.com/sonic-net/SONiC/blob/master/doc/alpine/alpine_hld.md)"
+  - https://wiki.debian.org/DebianRepository
 ---
 
 # Debian Repositories
