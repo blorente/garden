@@ -1,7 +1,8 @@
 ---
 publish: true
-created: 2026-06-14T13:30:41.028+01:00
-modified: 2026-07-20T14:23:58.602+01:00
+created: 2026-06-14T13:30:35.446+01:00
+modified: 2026-08-02T10:53:20.645+01:00
+published: 2026-08-02T10:53:20.645+01:00
 ---
 
 ## To Read
@@ -10,7 +11,6 @@ modified: 2026-07-20T14:23:58.602+01:00
 - [[O-Ring Automation - An AI Paper About Hard to Automate Tasks.pdf]]
 - https://boringtechnology.club/
 - https://www.radicalsimpli.city/#:~:text=What%20is%20Radical%20Simplicity%3F,moving%20part%20for%20each%20purpose
-- https://kristoff.it/blog/fix-your-asserts/
 - crisis engineering
 - Moving off the map -paper, from the Ludic podcast
 - https://crisisengineering.layeraleph.com/reading-list/
@@ -30,6 +30,11 @@ _from when I started counting, around July 2026_
 - [[Obviously Awesome - April Dunford]]
 - [[Working in Public]]
 - The Phoenix Project
+
+#### Articles
+
+- https://kristoff.it/blog/fix-your-asserts/
+- https://matklad.github.io/2021/05/31/how-to-test.html
 
 ## Read in 2025
 

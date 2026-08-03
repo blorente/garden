@@ -2,11 +2,6 @@
 publish: true
 created: 2026-07-24
 modified: 2026-07-24T22:45:07.956+01:00
-published: 2026-07-24T22:45:07.956+01:00
-links:
-  - "[[Leadership]]"
-  - "[[Business]]"
-sources:
 ---
 
 # Becoming a Technical Leader - Gerald Weinberg
