@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-27T22:51:01.712+01:00
-modified: 2026-08-03T08:18:28.219+01:00
-published: 2026-08-03T08:18:28.219+01:00
+modified: 2026-08-03T08:48:43.751+01:00
+published: 2026-08-03T08:48:43.751+01:00
 ---
 
 In this essay, we're going to punch a child in the mouth.
@@ -110,7 +110,7 @@ Some second-order effects I've observed from gaining Archaeological knowledge: W
 
 That must be GDP-worth _at least_ a couple hundred thousand Euro a year, and we haven't even explore the more intangible aspects, like sparking the imagination in all sorts of ways, leading to the creation of interesting (and sometimes even GDP-valuable) pieces of art. It can also spark ideas for research into why we humans behave the way we do, and have the gaping blindspots we keep falling into.
 
-Even _without_ the research, it's very easy to find thousands of hours of podcasts confidently asserting the wildest conjectures about gender roles as a consequence of Archaeological findings, and _those_ have GDP-value as well, when they sell [Intellifuck](https://www.reddit.com/r/ItemShop/comments/leq9u7/intellifuck_10_stamina_10_intelligence_cures_bone/) or whatever the hell they're padding.
+Even _without_ the research, it's very easy to find thousands of hours of podcasts confidently asserting the wildest conjectures about gender roles as a consequence of Archaeological findings, and _those_ have GDP-value as well, when they sell [Intellifuck](https://www.reddit.com/r/ItemShop/comments/leq9u7/intellifuck_10_stamina_10_intelligence_cures_bone/) or whatever the hell they're peddling.
 
 In fact, they have _more_ value than most of the other reasons to do Archaeology. Oh, shit.
 
