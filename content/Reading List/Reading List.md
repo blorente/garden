@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-06-14T13:30:35.446+01:00
-modified: 2026-08-02T10:53:20.645+01:00
-published: 2026-08-02T10:53:20.645+01:00
+modified: 2026-08-22T10:39:13.636+01:00
+published: 2026-08-22T10:39:13.636+01:00
 ---
 
 ## To Read
@@ -29,6 +29,7 @@ _from when I started counting, around July 2026_
 - [[The Neverending Story - Michael Ende]]
 - [[Obviously Awesome - April Dunford]]
 - [[Working in Public]]
+- [[Hyperion - Dan Simmons]]
 - The Phoenix Project
 
 #### Articles
