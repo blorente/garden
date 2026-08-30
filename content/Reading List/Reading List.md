@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-06-14T13:30:35.446+01:00
-modified: 2026-08-22T10:39:13.636+01:00
-published: 2026-08-22T10:39:13.636+01:00
+modified: 2026-08-30T14:10:23.755+01:00
+published: 2026-08-30T14:10:23.755+01:00
 ---
 
 ## To Read
@@ -31,6 +31,7 @@ _from when I started counting, around July 2026_
 - [[Working in Public]]
 - [[Hyperion - Dan Simmons]]
 - The Phoenix Project
+- [[A Wizard Of Earthsea - Ursula K. LeGuin]]
 
 #### Articles
 
